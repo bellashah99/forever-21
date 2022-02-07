@@ -1,0 +1,27 @@
+img{
+    width: 20%;
+}
+body{
+background:#7df7a1;
+text-align: center;
+}
+.menu{
+    list-style: none;
+font-family: 'Times New Roman', Times, serif;
+position:fixed ;
+top: 10px;
+right: 30px;
+z-index: 10; 
+    
+}
+.links{
+float: left;
+color: lightcoral;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+}
+.links:hover{
+    background-color: rgb(73, 228, 255);
+}
